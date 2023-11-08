@@ -1,0 +1,1 @@
+global.Op = require('sequelize');
